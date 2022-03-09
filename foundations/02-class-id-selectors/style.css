@@ -1,0 +1,21 @@
+.odd{
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, Dejavu, Sans, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    text-align: center;
+}
+#one{
+    color: #0000ff;
+    font-size: 36px;
+    text-align: center;
+}
+.odd.biggerfont{
+    font-size: 24px;
+}
+#two{
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
